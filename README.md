@@ -16,7 +16,7 @@ I'm an **Android developer** passionate about creating intuitive, high-performan
 - Contribute to open-source Android libraries and tools.
 
 ## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/ditacristianionut)
+- [Google Playstore](https://play.google.com/store/apps/dev?id=6998019639923772389)
 
 Let's connect and collaborate on building amazing Android apps! 🚀
