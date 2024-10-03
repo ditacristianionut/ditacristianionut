@@ -4,12 +4,7 @@ I'm an **Android developer** passionate about creating intuitive, high-performan
 
 ## 💻 Tech Stack
 - **Languages:** Kotlin, Java
-- **Android Development Tools:** Android Studio, Jetpack Libraries
-- **Backend:** Firebase (Crashlytics, Firestore)
-- **APIs:** Google APIs (Drive, Maps, etc.)
-  
-## 🔭 Current Project
-- **CaffeInMe:** A caffeine tracker app to help users monitor and manage their daily caffeine consumption.
+- **Android Studio, Android SDK, Jetpack Compose, Firebase, Dagger Hilt**
 
 ## 🎯 Future Goals
 - Explore more **AI and ML integrations** in mobile apps.
